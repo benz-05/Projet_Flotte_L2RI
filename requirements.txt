@@ -1,0 +1,6 @@
+# Aucune dépendance externe n'est nécessaire pour faire tourner le projet :
+# json, csv, sqlite3, logging, datetime et abc font partie de la
+# bibliothèque standard de Python.
+#
+# Seul pytest est requis pour lancer les tests.
+pytest>=8.0
