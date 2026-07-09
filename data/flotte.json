@@ -1,0 +1,124 @@
+{
+    "nom": "Location Dakar Auto",
+    "vehicules": [
+        {
+            "type": "Voiture",
+            "immatriculation": "DK-1001-A",
+            "marque": "Toyota",
+            "modele": "Corolla",
+            "kilometrage": 8000,
+            "statut": "DISPONIBLE",
+            "entretiens": [],
+            "nb_places": 5
+        },
+        {
+            "type": "Voiture",
+            "immatriculation": "DK-1002-A",
+            "marque": "Hyundai",
+            "modele": "Accent",
+            "kilometrage": 22000,
+            "statut": "DISPONIBLE",
+            "entretiens": [],
+            "nb_places": 5
+        },
+        {
+            "type": "Voiture",
+            "immatriculation": "DK-1003-A",
+            "marque": "Peugeot",
+            "modele": "5008",
+            "kilometrage": 5000,
+            "statut": "DISPONIBLE",
+            "entretiens": [],
+            "nb_places": 7
+        },
+        {
+            "type": "Utilitaire",
+            "immatriculation": "DK-2001-B",
+            "marque": "Renault",
+            "modele": "Master",
+            "kilometrage": 13000,
+            "statut": "DISPONIBLE",
+            "entretiens": [],
+            "charge_utile_kg": 1500
+        },
+        {
+            "type": "Utilitaire",
+            "immatriculation": "DK-2002-B",
+            "marque": "Ford",
+            "modele": "Transit",
+            "kilometrage": 4000,
+            "statut": "DISPONIBLE",
+            "entretiens": [],
+            "charge_utile_kg": 1200
+        },
+        {
+            "type": "Moto",
+            "immatriculation": "DK-3001-C",
+            "marque": "Yamaha",
+            "modele": "Crux",
+            "kilometrage": 9000,
+            "statut": "DISPONIBLE",
+            "entretiens": [],
+            "cylindree_cc": 110
+        },
+        {
+            "type": "Moto",
+            "immatriculation": "DK-3002-C",
+            "marque": "Honda",
+            "modele": "CB",
+            "kilometrage": 3000,
+            "statut": "LOUE",
+            "entretiens": [],
+            "cylindree_cc": 250
+        },
+        {
+            "type": "Moto",
+            "immatriculation": "DK-3003-C",
+            "marque": "KTM",
+            "modele": "Duke",
+            "kilometrage": 16000,
+            "statut": "DISPONIBLE",
+            "entretiens": [],
+            "cylindree_cc": 390
+        },
+        {
+            "type": "Voiture",
+            "immatriculation": "DK-1004-A",
+            "marque": "Kia",
+            "modele": "Picanto",
+            "kilometrage": 30000,
+            "statut": "DISPONIBLE",
+            "entretiens": [],
+            "nb_places": 5
+        }
+    ],
+    "locations": [
+        {
+            "immatriculation": "DK-1001-A",
+            "client": "Aminata Ba",
+            "categorie": "PARTICULIER",
+            "date_debut": "2026-07-04",
+            "date_fin_prevue": "2026-07-07",
+            "date_fin_reelle": "2026-07-07",
+            "tarif_jour": 20000
+        },
+        {
+            "immatriculation": "DK-2001-B",
+            "client": "Sonatel SA",
+            "categorie": "ENTREPRISE",
+            "date_debut": "2026-06-29",
+            "date_fin_prevue": "2026-07-03",
+            "date_fin_reelle": "2026-07-06",
+            "tarif_jour": 37500
+        },
+        {
+            "immatriculation": "DK-3002-C",
+            "client": "Festival Dakar",
+            "categorie": "EVENEMENTIEL",
+            "date_debut": "2026-07-09",
+            "date_fin_prevue": "2026-07-13",
+            "date_fin_reelle": null,
+            "tarif_jour": 12500
+        }
+    ]
+}

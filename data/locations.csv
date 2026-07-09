@@ -1,0 +1,4 @@
+immatriculation,client,categorie,date_debut,date_fin_prevue,date_fin_reelle,nb_jours,penalite,montant_total
+DK-1001-A,Aminata Ba,Particulier,2026-07-04,2026-07-07,2026-07-07,3,0,60000.0
+DK-2001-B,Sonatel SA,Entreprise,2026-06-29,2026-07-03,2026-07-06,7,15000,251250.0
+DK-3002-C,Festival Dakar,Événementiel,2026-07-09,2026-07-13,,4,0.0,60000.0
